@@ -1,0 +1,18 @@
+{
+  "name": "extract-fonts-with-font-spider",
+  "version": "1.0.0",
+  "description": "使用 font-spider 提取字体",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuzhaoyue/extract-fonts-with-font-spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuzhaoyue/extract-fonts-with-font-spider/issues"
+  },
+  "homepage": "https://github.com/chuzhaoyue/extract-fonts-with-font-spider#readme"
+}
